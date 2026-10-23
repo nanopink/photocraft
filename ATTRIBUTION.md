@@ -4,7 +4,7 @@
 
 | Path | Title | Author | Source | License |
 |---|---|---|---|---|
-| `docs/images/brushes-8046/*.png` | Docked Brushes display options, before and after #8046 | @nanopink | Original offscreen captures of PhotoCraft at `98de85c64` and `cb9cf898a` | MIT OR Apache-2.0; embedded branding retains its existing license |
+| `docs/images/brushes-8046/*.png` | Docked Brushes display options, before and after #8046 | @nanopink | Original offscreen captures of PhotoCraft; source revisions in the screenshot README | MIT OR Apache-2.0; embedded branding retains its existing license |
 | `docs/images/shortcuts-8056/*.png` | Shared B key retains Pencil, before and after #8056 | @nanopink | Original offscreen captures before the shortcut fix and at `cb9cf898a` | MIT OR Apache-2.0; embedded branding retains its existing license |
 
 Every non-code asset in this repository, with its author, source and license. PhotoCraft's own
