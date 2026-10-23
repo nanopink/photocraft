@@ -1,5 +1,11 @@
 # Attribution
 
+## PR screenshots
+
+| Path | Title | Author | Source | License |
+|---|---|---|---|---|
+| `docs/images/brushes-8046/*.png` | Docked Brushes display options, before and after #8046 | @nanopink | Original offscreen captures of PhotoCraft at `98de85c64` and `cb9cf898a` | MIT OR Apache-2.0; embedded branding retains its existing license |
+
 Every non-code asset in this repository, with its author, source and license. PhotoCraft's own
 code and original assets are MIT OR Apache-2.0 (see [`LICENSE-MIT`](LICENSE-MIT),
 [`LICENSE-APACHE`](LICENSE-APACHE) and [`NOTICE`](NOTICE)). When you add an asset, add a row here
